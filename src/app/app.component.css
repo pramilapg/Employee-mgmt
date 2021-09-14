@@ -1,0 +1,24 @@
+*{
+    background-color: bisque;
+}
+
+.box {
+    float: left;
+    width: 250px;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 5px;
+    border: 0.5px solid bisque;
+}
+.box2 {
+    float: left;
+    width: 70%;
+    margin-left: 10px;
+    margin-top: 60px;
+    padding: 5px;
+    border: 0.5px solid bisque;
+}
+.add-new{
+    float:right;
+    margin-right:200px;
+}
